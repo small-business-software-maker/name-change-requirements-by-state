@@ -1,0 +1,433 @@
+{
+  "name": "Name-Change Requirements by State (Verified)",
+  "description": "Source-verified comparison of the after-marriage name-change process for U.S. states: the state DMV agency, the driver-license fee (verbatim from the official source), whether the change must be done in person, any update deadline, the official source URL, and the date each row was last verified.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "https://namechangepacket.com/name-change-requirements-by-state",
+  "columns": [
+    "state",
+    "dmv_agency",
+    "fee",
+    "in_person_required",
+    "deadline_days_or_note",
+    "official_source_url",
+    "last_verified_date"
+  ],
+  "record_count": 46,
+  "date_modified": "2026-06-20",
+  "records": [
+    {
+      "state": "Alabama",
+      "dmv_agency": "Alabama Law Enforcement Agency (ALEA), Driver License Division",
+      "fee": "Charged at the 'normal duplicate fee'; a specific dollar amount for the duplicate is not itemized on the official fees page. Fee varies - see source.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.alea.gov/dps/driver-license/driver-license-forms",
+      "last_verified_date": "2026-06-16"
+    },
+    {
+      "state": "Arizona",
+      "dmv_agency": "Arizona Department of Transportation, Motor Vehicle Division (ADOT MVD)",
+      "fee": "$12",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "DEADLINE: You must update your name with MVD within 10 days of your legal name change taking effect. Source: azdot.gov change-your-name page.",
+      "official_source_url": "https://azdot.gov/mvd/services/driver-services/driver-license-information/fees-driver-license",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "California",
+      "dmv_agency": "California Department of Motor Vehicles (DMV)",
+      "fee": "$37 — the cited DMV fee page lists 'Replacement (lost or stolen) / Change DL/ID Information' for a Class C license at $37; the $46 on the same page is the original/renewal fee, not a name/information change",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/licensing-fees/",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Colorado",
+      "dmv_agency": "Colorado Department of Revenue, Division of Motor Vehicles (DMV)",
+      "fee": "fee varies — see source (official current fee schedule; Colorado DMV fees were adjusted June 30, 2025 and July 1, 2025, so confirm current amount on the State DMV Fees page)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "DEADLINE: If you change your name due to marriage (or divorce, civil union, or similar legal change), you must renew/update your credential with the new name within 30 days of the name change.",
+      "official_source_url": "https://dmv.colorado.gov/state-dmv-fees",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Connecticut",
+      "dmv_agency": "Connecticut Department of Motor Vehicles (CT DMV)",
+      "fee": "$30",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://portal.ct.gov/DMV/Licenses/Licenses/Make-Changes-to-License/Change-of-Name",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Delaware",
+      "dmv_agency": "Delaware Division of Motor Vehicles (DMV)",
+      "fee": "Varies — see source. The Delaware DMV name-change page does not publish a single flat dollar figure; we link the official source rather than assert a number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "30-DAY DEADLINE: Within 30 days after legally changing your name, you must personally go to a Delaware DMV office to change the name on your driver license.",
+      "official_source_url": "https://www.dmv.de.gov/DriverServices/other/index.shtml?dc=dr_oth_change",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "District of Columbia",
+      "dmv_agency": "District of Columbia Department of Motor Vehicles (DC DMV)",
+      "fee": "Varies — see source. The DC DMV name-change page does not publish a single flat dollar figure for a name change; the fee is the applicable driver-license/ID service fee. We link the official source rather than assert a number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dmv.dc.gov/service/driver-licenses",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Florida",
+      "dmv_agency": "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)",
+      "fee": "$25.00 (source-cited)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "30-DAY DEADLINE: FLHSMV states name and address changes must be updated on both your driver license/ID and your title/registration within 30 days after changing your name.",
+      "official_source_url": "https://www.flhsmv.gov/fees/",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Georgia",
+      "dmv_agency": "Georgia Department of Driver Services (DDS)",
+      "fee": "No name-change fee is stated on the official DDS Update License page. A 'one free name or address change during the license term' policy appeared in a Google search snippet but could NOT be confirmed in the body of any official DDS page fetched, so treat as unconfirmed. Replacement/duplicate card (if applicable) is $10.00 when at least 150 days remain on the license/ID. Fee varies — see source.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "60-DAY DEADLINE: By Georgia law you must update the name on your license/permit/ID within 60 days of the name change.",
+      "official_source_url": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-replace-license",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Idaho",
+      "dmv_agency": "Idaho Transportation Department (ITD), Division of Motor Vehicles",
+      "fee": "Varies — see source. The Idaho ITD required-documents page does not publish a dollar fee for a name change; ITD directs fee questions to its DMV line. We link the official source rather than assert a number.",
+      "in_person_required": "see-source",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://itd.idaho.gov/dmv/drivers-licenses-id-cards/",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Illinois",
+      "dmv_agency": "Illinois Secretary of State, Driver Services Department",
+      "fee": "$5 (source-cited)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "10-DAY DEADLINE: State law requires notifying the Secretary of State of a name change within 10 days.",
+      "official_source_url": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a229.pdf",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Indiana",
+      "dmv_agency": "Indiana Bureau of Motor Vehicles (BMV)",
+      "fee": "$9.00 per the official BMV Fee Chart (fee to amend a credential). Confirm current amount on the source as fees can change.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "DEADLINE: You must visit a BMV branch within 30 days of a legal name change to apply for an updated license/ID card.",
+      "official_source_url": "https://www.in.gov/bmv/files/Fee_Chart.pdf",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Iowa",
+      "dmv_agency": "Iowa Department of Transportation (Iowa DOT), Motor Vehicle Division",
+      "fee": "$10.00",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://iowadot.gov/drivers-licenses-ids/other-services/change-information",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "Kansas",
+      "dmv_agency": "Kansas Department of Revenue, Division of Vehicles",
+      "fee": "$16.00",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.ksrevenue.gov/dovdlfaq.html",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "Kentucky",
+      "dmv_agency": "Kentucky Transportation Cabinet — Division of Driver Licensing (DRIVE)",
+      "fee": "$15.00",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "DEADLINE: After a name (or address) change, the applicant must apply for an updated credential within 10 days (per the REAL ID FAQ).",
+      "official_source_url": "https://drive.ky.gov/RealID/Pages/FAQs.aspx",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Louisiana",
+      "dmv_agency": "Louisiana Office of Motor Vehicles (OMV), Department of Public Safety",
+      "fee": "$13.00 (a local fee may apply, not to exceed $4)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://expresslane.la.gov/omv/resources/faqs/",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Maryland",
+      "dmv_agency": "Maryland Department of Transportation Motor Vehicle Administration (MDOT MVA)",
+      "fee": "$30 (fee schedule effective September 1, 2025)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "DEADLINE: Maryland law requires drivers to notify the MVA of a name change within 30 days.",
+      "official_source_url": "https://mva.maryland.gov/licenses-ids/license-id-fees",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Massachusetts",
+      "dmv_agency": "Massachusetts Registry of Motor Vehicles (RMV)",
+      "fee": "$25.00 (source-cited)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.mass.gov/doc/rmv-schedule-of-fees/download",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Michigan",
+      "dmv_agency": "Michigan Department of State / Secretary of State (SOS)",
+      "fee": "$9",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.michigan.gov/sos/all-services/license-or-id-name-correction",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Minnesota",
+      "dmv_agency": "Minnesota Department of Public Safety, Driver and Vehicle Services (DVS)",
+      "fee": "$26 — DVS lists the duplicate/replacement card (all DL classes) at $26; a marriage name change is issued as a duplicate, so $26 is the name-change-relevant figure. The $46 on the same page is the original Class D issuance fee, not a name change.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dps.mn.gov/divisions/dvs/license-and-id/dl-and-id-card-fees",
+      "last_verified_date": "2026-06-16"
+    },
+    {
+      "state": "Mississippi",
+      "dmv_agency": "Mississippi Department of Public Safety (DPS), Driver Service Bureau",
+      "fee": "$11.00",
+      "in_person_required": "see-source",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.driverservicebureau.dps.ms.gov/Drivers/Driver_Service_Fees",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "Missouri",
+      "dmv_agency": "Missouri Department of Revenue (DOR), Driver License Bureau",
+      "fee": "fee varies — see source. The official PDF fee chart could not be machine-parsed to confirm the exact current duplicate amount; verify on the DOR fee chart before publishing a number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dor.mo.gov/driver-license/documents/feechart.pdf",
+      "last_verified_date": "2026-06-16"
+    },
+    {
+      "state": "Montana",
+      "dmv_agency": "Montana Motor Vehicle Division (MVD)",
+      "fee": "Varies — see source. The Montana MVD name-change page states you pay 'the required fees' for a replacement license but does not publish a single flat dollar figure; we link the official replace-license page rather than assert a number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://mvdmt.gov/replace-license-id/",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Nebraska",
+      "dmv_agency": "Nebraska Department of Motor Vehicles (DMV)",
+      "fee": "Varies — see source. The Nebraska DMV name-change page states only that 'the appropriate License Fees' apply and links its fee page; it does not publish a single flat dollar figure for a name change, so we link the official source rather than assert a number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "Nebraska statute requires the name change to be completed on your license, permit, or ID within 60 days of your legal name change.",
+      "official_source_url": "https://dmv.nebraska.gov/dl/licenses-and-permits",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "Nevada",
+      "dmv_agency": "Nevada Department of Motor Vehicles (DMV)",
+      "fee": "$8.50",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dmv.nv.gov/namechange.htm",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "New Jersey",
+      "dmv_agency": "New Jersey Motor Vehicle Commission (NJ MVC)",
+      "fee": "$11 (listed as 'Changes/duplicate' on the NJ MVC license fee schedule)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.nj.gov/mvc/license/licfees.htm",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "New Mexico",
+      "dmv_agency": "New Mexico Motor Vehicle Division (MVD)",
+      "fee": "Varies — see source. The New Mexico MVD name-change pages do not publish a name-change-specific fee; the general driver-license page lists $18.00 for a four-year license or $34.00 for an eight-year license, but those are not tied to a name change. We link the official source rather than assert a name-change number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "New York",
+      "dmv_agency": "New York State Department of Motor Vehicles (NY DMV)",
+      "fee": "$12.50 (source-cited)",
+      "in_person_required": "no",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dmv.ny.gov/driver-license/change-information-on-dmv-photo-documents",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "North Carolina",
+      "dmv_agency": "North Carolina Division of Motor Vehicles (NCDMV), N.C. Department of Transportation (NCDOT)",
+      "fee": "fee varies — see source. The exact base duplicate fee is not stated on the NCDMV name-changes or replacement pages reviewed; confirm the current amount at a DMV office or on the official fee schedule. (A web-search snippet cited $16.75 but this could not be verified on an official page that was directly read, so it is NOT asserted here.)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "60-DAY DEADLINE: You have 60 days after the name change occurs to notify NCDMV and obtain a duplicate license/ID with your new name.",
+      "official_source_url": "https://www.ncdot.gov/dmv/license-id/renewal-replacement/Pages/replacement-duplicate-license.aspx",
+      "last_verified_date": "2026-06-16"
+    },
+    {
+      "state": "North Dakota",
+      "dmv_agency": "North Dakota Department of Transportation (NDDOT), Drivers License Division",
+      "fee": "$3.00 — NDDOT states that if you are not in need of a renewal, you submit a $3.00 fee and have a new picture taken. (If you are renewing at the same time, the standard renewal fee applies instead.)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "10-DAY DEADLINE: A ND Drivers License site must be visited by anyone who has a change of name to purchase a corrected license within 10 days.",
+      "official_source_url": "https://www.dot.nd.gov/divisions/driverslicense/addnamechange.htm",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Ohio",
+      "dmv_agency": "Ohio Bureau of Motor Vehicles (BMV) / Deputy Registrar license agencies",
+      "fee": "$29.00 (listed as \"Duplicate Operator $29.00 / $29.00\"). No separately labeled name-change fee published; confirm exact charge with deputy registrar.",
+      "in_person_required": "see-source",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.bmv.ohio.gov/doc-fees.aspx",
+      "last_verified_date": "2026-06-16"
+    },
+    {
+      "state": "Oklahoma",
+      "dmv_agency": "Service Oklahoma (Department of Public Safety)",
+      "fee": "$25.00",
+      "in_person_required": "see-source",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "Oregon",
+      "dmv_agency": "Oregon Department of Transportation, Driver and Motor Vehicle Services (DMV)",
+      "fee": "fee varies — see source (the official fees page lists amounts under 'Replacements'; exact base amount not independently confirmed from the rendered fee table)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.oregon.gov/odot/dmv/pages/fees/driver.aspx",
+      "last_verified_date": "2026-06-16"
+    },
+    {
+      "state": "Pennsylvania",
+      "dmv_agency": "Pennsylvania Department of Transportation (PennDOT), Driver and Vehicle Services (DMV)",
+      "fee": "$42.50 per official Payments and Fees page. Confirm exact charged amount at the Driver License Center; fees are subject to change.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.pa.gov/agencies/dmv/resources/payments-and-fees",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Rhode Island",
+      "dmv_agency": "Rhode Island Division of Motor Vehicles (DMV)",
+      "fee": "$28.50 — the RI DMV fee table lists the duplicate/update license fee at $28.50; the name-change page itself says costs are in the DMV Fee Table without an inline amount. There is no line literally labeled 'name change', so this is the applicable duplicate/update fee.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dmv.ri.gov/licenses-permits-ids/drivers-licenses/license-fees",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "South Carolina",
+      "dmv_agency": "South Carolina Department of Motor Vehicles (SCDMV)",
+      "fee": "$10",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "The '10 days' deadline shown on the SCDMV page applies to updating your ADDRESS after a move, not specifically to a marriage name change; confirm any time requirement directly with the SCDMV.",
+      "official_source_url": "https://dmv.sc.gov/driver-services/drivers-license/address-or-name-change",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "South Dakota",
+      "dmv_agency": "South Dakota Department of Public Safety (DPS), Driver Licensing",
+      "fee": "$15 — South Dakota DPS states a duplicate driver's license costs $15, and a name or address change costs $15. (A new/renewal license is $28.)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dps.sd.gov/driver-licensing/south-dakota-licensing-information/fees",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Tennessee",
+      "dmv_agency": "Tennessee Department of Safety and Homeland Security — Driver Services",
+      "fee": "$8.00 total ($6.00 license + $2.00 application fee)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.tn.gov/safety/driver-services/helpful-information/fees.html",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Texas",
+      "dmv_agency": "Texas Department of Public Safety (DPS) — Driver License Division",
+      "fee": "$11 (source-cited)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "Hard 30-day deadline: Texas DPS instructs you to visit a driver license office within 30 days of the change to update your name.",
+      "official_source_url": "https://www.dps.texas.gov/section/driver-license/driver-license-fees",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Utah",
+      "dmv_agency": "Utah Driver License Division (DLD)",
+      "fee": "$23.00",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://dld.utah.gov/fees/",
+      "last_verified_date": "2026-06-15"
+    },
+    {
+      "state": "Vermont",
+      "dmv_agency": "Vermont Department of Motor Vehicles (DMV)",
+      "fee": "$24.00 — Vermont's official fees table lists the driver-license 'Replacement' fee at $24.00; a name change is issued as a replacement/corrected license. (There is no line literally labeled 'name change'.)",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "30-DAY DEADLINE: You are required by law to notify the Vermont DMV within 30 days of any change to your address or name.",
+      "official_source_url": "https://dmv.vermont.gov/licenses/fees",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Virginia",
+      "dmv_agency": "Virginia Department of Motor Vehicles (DMV)",
+      "fee": "fee varies - see source. DMV states you must 'pay the appropriate licensing fees'; the exact dollar amount is not stated on the name-change pages reviewed.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://www.dmv.virginia.gov/online-services/name-change",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Washington",
+      "dmv_agency": "Washington State Department of Licensing (DOL)",
+      "fee": "fee varies — see source. The DOL change-name pages state a fee is required ('Payment for the fee for a new license with updated information' / 'You may need to pay a fee') but do not list a specific dollar amount; they direct applicants to the driver licensing fees page.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "No deadline is stated by DOL for updating your NAME after marriage (the 10-day deadline DOL lists applies only to ADDRESS changes, not name changes).",
+      "official_source_url": "https://dol.wa.gov/driver-licenses-and-permits/enhanced-driver-license-edl/change-name-or-address-enhanced-driver-license-edl",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "West Virginia",
+      "dmv_agency": "West Virginia Division of Motor Vehicles (DMV)",
+      "fee": "Varies — see source. West Virginia does not publish a flat duplicate/name-change dollar figure; renewal fees follow an age-based formula ($5.00 per year until your age is divisible by five), and a REAL ID adds an additional $10.00 fee. We link the official source rather than assert a single name-change number.",
+      "in_person_required": "see-source",
+      "deadline_days_or_note": "",
+      "official_source_url": "https://transportation.wv.gov/DMV/Drivers/Pages/Renewal-Fees.aspx",
+      "last_verified_date": "2026-06-20"
+    },
+    {
+      "state": "Wisconsin",
+      "dmv_agency": "Wisconsin Department of Transportation (WisDOT) — Division of Motor Vehicles (DMV)",
+      "fee": "$14",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "REAL ID enforcement for federal facilities and domestic air travel has been in effect (deadline May 7, 2025); ensure your credential is REAL ID-compliant if you fly domestically or enter federal facilities.",
+      "official_source_url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/dmv-fees.aspx",
+      "last_verified_date": "2026-06-14"
+    },
+    {
+      "state": "Wyoming",
+      "dmv_agency": "Wyoming Department of Transportation (WYDOT), Driver Services",
+      "fee": "Varies — see source. The Wyoming Driver Services page refers only to the standard renewal fee and does not publish a dollar amount for a name change; we link the official source rather than assert a number.",
+      "in_person_required": "yes",
+      "deadline_days_or_note": "10-DAY DEADLINE: When a holder of a Wyoming driver's license or ID card changes their mailing address, residence, or their name, they must notify WYDOT Driver Services within 10 days.",
+      "official_source_url": "https://dot.state.wy.us/home/driver_license_records/add_or_change_information.html",
+      "last_verified_date": "2026-06-20"
+    }
+  ]
+}
